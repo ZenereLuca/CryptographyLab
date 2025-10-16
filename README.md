@@ -128,9 +128,7 @@ include './ComponentiPagine/<NomeComponenteComune>.php';
   Lo stile è definito in `Style/Style.css`, con un tema azzuro chiaro/scuro con accenni al verde colore tipico della codifica.
 - Il campo aggiuntivo della chiave di Vigenèreè è gestito in `Code/Script.js`.
 
----
-
-### 🔧 Vantaggi architetturali
+## 🔧 Vantaggi architetturali
 
 - **Separazione netta tra logica e presentazione**.  
 - **Estendibilità**: basta creare una nuova classe che estende `Cifrario` per aggiungere un nuovo algoritmo.  
