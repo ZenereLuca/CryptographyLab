@@ -189,14 +189,6 @@ Chiave corrisp.:  LIMONELIMONELIM
 Risultato:        LXFOPVEFRNHRMUG
 ```
 
-Ciascuna lettera è sostituita così:
-- C → P  
-- R → E  
-- Y → L  
-- P → C  
-- T → G  
-- O → B
-
 ## 👨‍💻 Autore
 
 **Progetto sviluppato da:** *Luca Zenere*  
