@@ -189,6 +189,14 @@ Chiave corrisp.:  LIMONELIMONELIM
 Risultato:        LXFOPVEFRNHRMUG
 ```
 
+## 📄 Licenza
+
+Questo progetto è rilasciato con una licenza  ad **uso personale e didattico**.  
+Non è consentito utilizzare, in tutto o in parte, il codice per la creazione di altri applicativi
+o per scopi commerciali.  
+Consulta il file [LICENSE](./LICENSE) per i dettagli.
+
+
 ## 👨‍💻 Autore
 
 **Progetto sviluppato da:** *Luca Zenere*  
